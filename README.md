@@ -1,21 +1,25 @@
-# Node.js Loginapp
+# Node.js Login App
 
-This is a user login and registration app using Node.js, Express, Passport and Mongoose. It is part of the YouTube series [here](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
+##### This is my first Node login project.
 
-### Version
-1.1.0
+####  Support my projects
 
-### Usage
-
+####  This is open-source and Obviously, this takes time.
+####  You can integrate and use these projects in your application for free!
+####  You can even change the source code and redistribute (even resell it).
 
 ### Installation
 
-Loginapp requires [Node.js](https://nodejs.org/) v4+ to run.
-
-```sh
 $ npm install
-```
 
-```sh
 $ npm start
-```
+
+Screenshot
+
+###  Login 
+![Alt text](https://github.com/Galloa118/login_project_node/blob/master/login.jpg "Optional title")
+
+###  Reigster
+![Alt text](https://github.com/Galloa118/login_project_node/blob/master/register.jpg "Optional title")
+
+
